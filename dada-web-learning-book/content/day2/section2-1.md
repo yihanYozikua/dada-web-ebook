@@ -2,7 +2,7 @@
 [Bootstrap Doc](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
 * 引入 : 引入才能開始使用
-    ```
+    ```html
     <!-- 跟CSS有關 -->
     <!-- 把下面這行貼在<head>裡面的最前面 --> 
     <!-- 也可以直接寫在 topImport.ejs 裡面 -->
@@ -30,7 +30,7 @@
         * md : medium, iPad直式
         * lg : large, iPad橫式 / iPad Pro直式
         * xl : extra large, 電腦螢幕
-    ```
+    ```html
     col-斷點代碼-格數
     ```
     |                     | Extra Small | Small    | Medium   | large    | Extra Large |

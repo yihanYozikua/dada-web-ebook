@@ -10,7 +10,7 @@
     ![](https://i.imgur.com/4kiGM2h.png)
     
     * @mixin：是一個用來把css設定包成一整包的工具
-        ```
+        ```scss
         // 在css檔案裡面
         @mixin 名稱(){
             這個@mixin要尬麻
