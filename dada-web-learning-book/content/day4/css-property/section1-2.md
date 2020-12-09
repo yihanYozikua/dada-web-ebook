@@ -9,7 +9,7 @@
     ```scss
     display: inline; /*內容多長空間就有多大，不強迫換行*/
     display: block; /*佔一整行，強迫換行*/
-    display: flex; /*可以設定長寬，強迫換行*/
+    display: flex; /*可以設定長寬，不強迫換行*/
     display: inline-block; /*可以設定長寬，不強迫換行*/
     display: inline-flex; /*可以設定長寬，不強迫換行*/
     /* inline-＿＿ 可以想成是inline裡面包＿＿ */
