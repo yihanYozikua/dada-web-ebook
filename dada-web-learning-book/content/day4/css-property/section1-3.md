@@ -18,8 +18,14 @@
     position: relative;
     position: absolute;
     position: fixed;
-    position: sticky;
+    position: sticky; 
     ```
+
+      **使用sticky時，記得要再多設定元素位置唷**
+      ```scss
+      position: sticky;
+      top: 0;
+      ```
         
   * 上下左右位置（ ``` top ``` / ``` bottom ``` / ``` left ``` / ``` right ``` ）
     ```scss
