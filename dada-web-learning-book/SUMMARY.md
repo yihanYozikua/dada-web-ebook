@@ -47,7 +47,7 @@ This is the summary of "DaDa Wen Learning."
 
 
 * [Day 5](content/day5/index.md)
-	* [background advanced](content/day5/section1/section1-bg.md)
+	* [background advanced]()
 		* [multiple backgrounds](content/day5/section1/section1-1.md)
 		* [background-size](content/day5/section1/section1-2.md)
 		* [background-origin](content/day5/section1/section1-3.md)
