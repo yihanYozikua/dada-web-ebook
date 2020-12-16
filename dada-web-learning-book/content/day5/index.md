@@ -10,9 +10,10 @@
 * CSS偽元素 & 偽類
   * CSS偽元素（Pseudo Elements） 
     * ``` ::before ```  ``` ::after ```
+    * ``` content ```
     * ``` ::first-line ```  ``` ::first-letter ```  ``` ::selection ```
-    * content / counter
     * JS操控
+    * 利用偽元素做的CSS動畫
   * CSS偽類（Pseudo Classes）
     * 動態：``` :link ```  ``` :visited ```  ``` :hover ```  ``` :active ```  ``` :focus ```
     * 目標：``` :target ```

@@ -1,6 +1,6 @@
 # ::before / ::after
 
-* 以 ``` display: inline-block; ``` 的屬性存在
+* 兩者擁有 ``` display: inline-block; ``` 的屬性
 * ``` ::before ```：在原本的html元素**之前**加入內容
 * ``` ::after ```：在原本的html元素**之後**加入內容
 
@@ -39,4 +39,5 @@ div::after{
 ```
 
 效果如下
+<br>
 ![](https://i.imgur.com/bMinZEO.png)
