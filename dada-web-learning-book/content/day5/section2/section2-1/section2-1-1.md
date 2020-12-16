@@ -37,3 +37,6 @@ div::after{
   color: lightblue;
 }
 ```
+
+效果如下
+![](https://i.imgur.com/bMinZEO.png)
