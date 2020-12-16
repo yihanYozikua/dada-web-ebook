@@ -47,6 +47,7 @@ This is the summary of "DaDa Wen Learning."
 
 
 * [Day 5](content/day5/index.md)
+	* [提問時間](content/day5/ask.md)
 	* [background advanced]()
 		* [multiple backgrounds](content/day5/section1/section1-1.md)
 		* [background-size](content/day5/section1/section1-2.md)
@@ -66,6 +67,6 @@ This is the summary of "DaDa Wen Learning."
 			* [UI元素狀態](content/day5/section2/section2-2/section2-2-4.md)
 			* [結構](content/day5/section2/section2-2/section2-2-5.md)
 			* [否定](content/day5/section2/section2-2/section2-2-6.md)
-	* [提問時間](content/day5/ask.md)
+	
 
 	
