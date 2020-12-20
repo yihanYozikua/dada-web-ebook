@@ -47,7 +47,7 @@ This is the summary of "DaDa Wen Learning."
 
 
 * [Day 5](content/day5/index.md)
-	* [提問時間](content/day5/ask.md)
+	* [提問時間]()
 	* [background advanced]()
 		* [multiple backgrounds](content/day5/section1/section1-1.md)
 		* [background-size](content/day5/section1/section1-2.md)
@@ -69,4 +69,17 @@ This is the summary of "DaDa Wen Learning."
 			* [否定](content/day5/section2/section2-2/section2-2-6.md)
 	
 
-	
+* [Day 6](content/day6/index.md)
+	* [提問時間]()
+	* [CSS動畫-基礎篇](content/day6/css-anim/section1-1_start.md)
+		* [ animation-name ](content/day6/css-anim/1-2_anim-name.md)
+		* [ animation-duration ](content/day6/css-anim/1-3_anim-duration.md)
+		* [ animation-delay ](content/day6/css-anim/1-4_anim-delay.md)
+		* [ animation-iteration-count ](content/day6/css-anim/1-5_anim-iteration.md)
+		* [ animation-timing-function ](content/day6/css-anim/1-6_anim-timing.md)
+		* [ animation-direction ](content/day6/css-anim/1-7_anim-direction.md)
+		* [ animation-fill-mode ](content/day6/css-anim/1-8_anim-fill.md)
+		* [ animation-play-state ](content/day6/css-anim/1-9_anim-play.md)
+		* [ animation ](content/day6/css-anim/1-10_anim.md)
+		* [ JS控制 ](content/day6/css-anim/1-11_JS-control.md)
+	* [RWD](content/day6/RWD/section2-1_start.md)
