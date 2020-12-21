@@ -3,8 +3,8 @@
 > 可以用css做出簡易動畫！
 
 * CSS動畫property有以下這些
-  * ``` animation-name ```：動畫名稱
-  * ``` animation-duration ```：動畫持續時間
+  * ``` animation-name ```：動畫名稱，一定要設定
+  * ``` animation-duration ```：動畫持續時間，一定要設定
   * ``` animation-delay ```：動畫延遲播放時間
   * ``` animation-iteration-count ```：動畫播放次數
   * ``` animation-timing-function ```：動畫加速度函式（移動模式）
