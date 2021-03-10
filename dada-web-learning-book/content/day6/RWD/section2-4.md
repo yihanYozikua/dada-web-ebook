@@ -8,7 +8,7 @@
 * 在小螢幕上，內容會自動重排，通常是垂直堆疊
 * [實際看看效果](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/mostly-fluid.html)
 ![](https://i.imgur.com/dpDpavy.png)
-* [Sample Code](../../day6/RWD/sample-code/rwd-mostly-fluid.md)
+* [Sample Code](https://dada-web-ebook-yihanyozikua.gitbook.io/dada-web-learning-ebook/index-5/section2-1_start/section2-4/rwd-mostly-fluid)
 
 #### 欄內容下排（Column drop）
 * 在大螢幕、中螢幕上，僅調整所有元件的大小
