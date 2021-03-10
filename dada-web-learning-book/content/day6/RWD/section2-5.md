@@ -1,6 +1,8 @@
 # RWD實作時間
 > 所以在我們的專案裡面會怎麼處理這件事呢？
 
+**注意：寫RWD的時候，要由裝置size小寫到大**
+
 ![](https://i.imgur.com/caXXSOK.jpg)
 * 先在 **scss** 資料夾裡面，創建一個 **vars.scss** 檔案
 * 此後，只要每次開一個新的 .scss 檔案，就要在 .scss檔案最上方引入 **vars.scss** 這個檔案
