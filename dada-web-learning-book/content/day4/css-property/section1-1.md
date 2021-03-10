@@ -63,6 +63,7 @@
     * ``` ridge ```，凸起
     * ``` inset ```
     * ``` outset ```，巧克力感
+
     ```scss
     /*單純設定邊框粗細*/
     border: 10em;

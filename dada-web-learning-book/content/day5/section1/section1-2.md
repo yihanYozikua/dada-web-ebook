@@ -11,7 +11,7 @@ body{
 ```
 
 * ``` contain ```
-  * 適應空間尺寸的圖片擺放法
+  * 讓寬度適應螢幕大小
   * 如果沒有特別設定圖片大小，則尺寸就以所在空間的短邊為主
 
 ```html
@@ -38,7 +38,7 @@ body{
   height: 1000px;
   background-color: gold;
   background-image: url("https://i.imgur.com/o57A3gD.png");
-  background-size: contain;
+  background-size: cover;
 }
 ```
 
