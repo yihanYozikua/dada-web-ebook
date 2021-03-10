@@ -14,6 +14,7 @@
 ```
 3. 以下示範 **vars.scss** 怎麼寫
 在 vars.scss中這樣寫...
+
 ```scss
 $sm-width: 576px; // 6寸左右的手機
 $md-width: 768px; // 一般iPad直式大小
@@ -48,6 +49,7 @@ $xl-width: 1200px; // 一般電腦螢幕大小
 ```
 
 在其他引用 vars.scss的檔案中這樣寫...
+
 ```scss
 #某個id{
   .某個class{

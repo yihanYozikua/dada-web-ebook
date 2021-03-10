@@ -2,10 +2,10 @@
 > 怎麼縮放都不會壞掉的網頁
 
 * 涵蓋以下幾件事
-  * [設定viewport](content/day6/RWD/section2-2.md)
-  * [決定RWD設計模式](content/day6/RWD/section2-3.md)
-  * [套用CSS media query](content/day6/RWD/section2-4.md)
-  * [使用相對單位設定寬高、大小](content/day6/RWD/section2-5.md)
+  * [設定viewport](../../day6/RWD/section2-2.md)
+  * [決定RWD設計模式](../../day6/RWD/section2-3.md)
+  * [套用CSS media query](../../day6/RWD/section2-4.md)
+  * [使用相對單位設定寬高、大小](../../day6/RWD/section2-5.md)
 
 
 ### 參考連結
