@@ -3,6 +3,7 @@
 
 [回到 RWD設計模式 總列表](../section2-4.md)
 
+### HTML
 ```html
 <div class="container">
   <div class="c1">
@@ -20,6 +21,8 @@
 </div>
 ```
 
+
+### CSS/SCSS寫法（一）
 ```scss
 /* Ref: https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns?hl=zh-tw
  */
@@ -86,6 +89,7 @@ p {
 }
 ```
 
+### CSS/SCSS寫法（二）
 ```scss
 @import "./vars.scss";
 
@@ -149,6 +153,7 @@ p {
 }
 ```
 
+### CSS/SCSS寫法（三）
 ```scss
 @import "./vars.scss";
 
