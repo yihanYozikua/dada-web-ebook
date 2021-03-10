@@ -1,4 +1,6 @@
 # CSS Media Query
+> 這一頁還沒新增完喔
+> 剩下的下次再新增！
 
 * *Media Queries* 指的是網頁會先詢問（query）媒體（media）的屬性，再針對這些屬性定義版面的長相
   * 簡單來說，先知道網頁是以哪種裝置開啟
@@ -18,7 +20,7 @@
     * ``` orientation ``` ：螢幕旋轉方向，例如： ``` portrait ``` （直向） , ``` landscape ``` （橫向）
   * Display Quality（顯示品質）
     * ``` resolution ``` ：解析度，也就是dpi, ppx...等，例如： ``` max-resolution ``` , ``` min-resolution ```
-    * ``` scan ``` ：電視掃描方式
+    <!-- * ``` scan ``` ：電視掃描方式， -->
   * Color（顏色）
   * Interaction（互動）
 
