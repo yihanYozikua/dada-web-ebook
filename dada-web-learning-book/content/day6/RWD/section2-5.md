@@ -2,14 +2,13 @@
 > 所以在我們的專案裡面會怎麼處理這件事呢？
 
 ![](https://i.imgur.com/caXXSOK.jpg)
-
-1. 先在 **scss** 資料夾裡面，創建一個 **vars.scss** 檔案
-2. 此後，只要每次開一個新的 .scss 檔案，就要在 .scss檔案最上方引入 **vars.scss** 這個檔案
+* 先在 **scss** 資料夾裡面，創建一個 **vars.scss** 檔案
+* 此後，只要每次開一個新的 .scss 檔案，就要在 .scss檔案最上方引入 **vars.scss** 這個檔案
 ```scss
 @import "./vars.scss";
 // 開始寫跟media query有關的東西...
 ```
-3. 以下示範 **vars.scss** 怎麼寫
+* 以下示範 **vars.scss** 怎麼寫
 
 ```scss
 $sm-width: 576px; // 6寸左右的手機
@@ -43,7 +42,7 @@ $xl-width: 1200px; // 一般電腦螢幕大小
   }
 }
 ```
-4. 在其他引用 vars.scss的檔案中則是這樣寫...
+* 在其他引用 vars.scss的檔案中則是這樣寫...
 
 ```scss
 #某個id{

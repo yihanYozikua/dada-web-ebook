@@ -6,6 +6,7 @@
 #### 主體為流動（Mostly fluid）
 * 在大螢幕、或中螢幕上，內容通常維持相同大小，只是會調整邊界
 * 在小螢幕上，內容會自動重排，通常是垂直堆疊
+* [Sample Code](./sample-code/rwd-mostly-fluid.md)
 * [實際看看效果](https://googlesamples.github.io/web-fundamentals/fundamentals/design-and-ux/responsive/mostly-fluid.html)
 ![](https://i.imgur.com/dpDpavy.png)
 
