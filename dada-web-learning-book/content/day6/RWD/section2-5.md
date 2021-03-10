@@ -1,6 +1,4 @@
 # RWD實作時間
-
-### When in Projects 實作時間
 > 所以在我們的專案裡面會怎麼處理這件事呢？
 
 ![](https://i.imgur.com/caXXSOK.jpg)
