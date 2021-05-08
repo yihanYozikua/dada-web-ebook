@@ -9,8 +9,9 @@
 <script src="js/檔名.min.js"></script>
 ```
 ```js
-document.getElementById('id名稱').innerHTML = "希望取得的元素變成怎樣";" //innerHTML取得「內文」
-document.getElementById('id名稱').style.CSS屬性 = "希望取得的元素變成怎樣";" //style.CSS屬性取得「屬性」（property）
+// 寫在JS檔案裡面
+document.getElementById('id名稱').innerHTML = "希望取得的元素變成怎樣"; //innerHTML取得「內文」
+document.getElementById('id名稱').style.CSS屬性 = "希望取得的元素變成怎樣"; //style.CSS屬性取得「屬性」（property）
 ```
 ```js
 //當然，也可以把document.getElementById參數化
