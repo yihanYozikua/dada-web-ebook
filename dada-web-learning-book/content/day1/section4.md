@@ -14,7 +14,7 @@
     (2) sass
     (3) js
 5. 執行 " yarn start "這個命令
-6. start coding
+6. 創建檔案（.html, .scss, .js, ...）、start coding!
 
 
 #### 別人的網頁欣賞
