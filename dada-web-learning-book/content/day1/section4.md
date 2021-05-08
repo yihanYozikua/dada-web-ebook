@@ -4,7 +4,7 @@
 #### STEPS
 1. 創一個新的資料夾for專案
 2. 複製以下檔案到剛剛建立的資料夾
-    (1) .gitignore
+    (1) .gitignore（打開vs code後複製）
     (2) gulpfile.js
     (3) package.json
     (4) yarn.lock
